@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Alexander
 
-<!--
-**Prodix/Prodix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/Prodix)
 
-Here are some ideas to get you started:
+## My main technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I ❤️ Back-end & Front-end Development!
+
+[1 Year] C# (ASP.NET)
+
+[0.5 Year] JavaScript (React)
+
+## My Stack
+
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![Dotnet](https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg)
+![csharp](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+![JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
+![NGINX](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg)
+![Pgsql](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
+
+## Stats
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=prodix&show_icons=true&theme=dark)
