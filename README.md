@@ -2,14 +2,6 @@
 
 [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/Prodix)
 
-## My main technologies
-
-I ❤️ Back-end & Front-end Development!
-
-[1 Year] C# (ASP.NET)
-
-[0.5 Year] JavaScript (React)
-
 ## My Stack
 
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
